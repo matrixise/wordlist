@@ -13,6 +13,10 @@
 * Procédé de langage (figure, trope) qui consiste dans une modification de sens
   (terme concret dans un contexte abstrait) par substitution analogique
 
+# Nepotisme
+
+* Abus qu'une personne en place fait de son influence en faveur de sa famille, de ses amis.
+
 # Odonymie
 
 * L'odonymie est la branche de la toponymie qui s'intéresse aux noms de voies,
